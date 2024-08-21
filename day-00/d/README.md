@@ -59,9 +59,13 @@ int main()
 		else if (n == 3)
 		{
 			if (i > 0)
+			{
 				printf("%i\n", arr[i-1]);
+			}
 			else
+			{
 				printf("%s\n", "Empty!");
+			}
 		}
 	}
 	free(arr);
