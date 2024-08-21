@@ -59,7 +59,7 @@ int main()
 			k = s;
 		}
 	}
-	cout << k << " " << r<<endl;
+	cout << k << " " << r << endl;
 	return 0;
 }
 ```

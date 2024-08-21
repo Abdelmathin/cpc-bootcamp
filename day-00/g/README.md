@@ -46,7 +46,7 @@ int main()
 		}
 		m[a] = i;
 	};
-	cout<<"IMPOSSIBLE\n";
+	cout << "IMPOSSIBLE" << endl;
 	return 0;
 }
 ```
