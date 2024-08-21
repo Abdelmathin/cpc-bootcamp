@@ -1,4 +1,4 @@
-# A - Increase by 2
+<h1 style="color: blue;">A - Increase by 2</h1>
 
 The sequence of integers is given. Increase each its non-negative element by 2.
 
