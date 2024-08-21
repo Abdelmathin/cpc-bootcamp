@@ -12,27 +12,7 @@ Print 𝑛 integers in a single line --- the new elements of the sequence, in th
 
 #### Example
 
-<table>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <th>Input</th>
-        </tr>
-        <tr>
-          <td>4<br>1 2 3 -4</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <th>Output</th>
-        </tr>
-        <tr>
-          <td>3 4 5 -4</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+| Input | Output |
+| --- | --- |
+| 4 | 3 4 5 -4 |
+| 1 2 3 -4 |  |
