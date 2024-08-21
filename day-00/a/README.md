@@ -12,17 +12,8 @@ Print 𝑛 integers in a single line --- the new elements of the sequence, in th
 
 #### Example
 
-<table style="width: 100%;">
-  <tr>
-    <th style="text-align: left;">Input</th>
-    <th style="text-align: left;">Output</th>
-  </tr>
-  <tr>
-    <td style="width: 50%;">4</td>
-    <td style="width: 50%;">3 4 5 -4</td>
-  </tr>
-  <tr>
-    <td style="width: 50%;">1 2 3 -4</td>
-    <td style="width: 50%;"></td>
-  </tr>
-</table>
+| Input      | Output         |
+| ---------- | -------------- |
+| 4          | 3 4 5 -4       |
+| 1 2 3 -4   |                |
+
