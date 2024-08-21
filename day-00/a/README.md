@@ -17,3 +17,12 @@ Print 𝑛 integers in a single line --- the new elements of the sequence, in th
 | 4          | 3 4 5 -4       |
 | 1 2 3 -4   |                |
 
+# Answer:
+
+```python
+s = ""
+n = int(input())
+for i in list(map(int, input().split())):
+    s += str(i + 2 * (i >= 0)) + " "
+print (s.strip())
+```

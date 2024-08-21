@@ -18,13 +18,3 @@ Print in the first line the number of required elements. In the second line prin
 | 3 1 3 4 2 4 12   | 3 3 2 12       |
 | 6                |                |
 | 4 15 43 1 15 1   |                |
-
-# Answer (Python):
-
-```python
-s = ""
-n = int(input())
-for i in list(map(int, input().split())):
-    s += str(i + 2 * (i >= 0)) + " "
-print (s.strip())
-```
