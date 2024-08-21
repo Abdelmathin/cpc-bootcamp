@@ -6,8 +6,11 @@ You have an empty stack and you are given some queries. These queries are the ba
 
 First line contains an integer T (0 <= T <= 10<sup>6</sup>).
 Each of the next T lines contains a query based on these formats.
+
 1 n : Push n (0 < n <= 10<sup>9</sup>) to the top of the stack.
+
 2 : Pop an element from the top of the stack. If the stack is empty, do nothing.
+
 3 : Print the top element of the stack (see Output Format).
 
 ### Output
