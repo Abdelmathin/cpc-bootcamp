@@ -37,22 +37,23 @@ Print the word that has the highest frequency and its frequency, separated by a 
 using namespace std;
 int main()
 {
-	int n;cin>>n;
+	int n;
+	cin>>n;
 	map<string,int> m;
 	string k = "";
-	int r=0;
+	int r = 0;
 	while(n--)
 	{
 		string s;
 		cin >> s;
-		if (m.count(s)>0)
+		if (m.count(s) > 0)
 		{
 			m[s]++;
 		}
 		else{
 			m[s]=1;
 		}
-		if ((m[s]>r)||((m[s]==r)&&(strcmp(k.c_str(),s.c_str())<0)))
+		if ((m[s] > r) || ((m[s] == r) && (strcmp(k.c_str(),s.c_str()) < 0)))
 		{
 			r = m[s];
 			k = s;

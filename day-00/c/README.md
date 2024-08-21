@@ -6,7 +6,7 @@ There are n columns of toy cubes in the box arranged in a line. The i-th column 
 
 <p align="center">
 	<a href="" target="blank">
-		<img style="border-radius: 5px;" src="../../assets/img/c.png" />
+		<img style="border-radius: 5px;" src="image.png" />
 	</a>
 </p>
 
