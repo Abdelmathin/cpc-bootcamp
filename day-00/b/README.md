@@ -35,4 +35,3 @@ for i in a1:
 print (k)
 print (s.strip())
 ```
-
