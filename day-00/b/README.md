@@ -18,3 +18,20 @@ Print in the first line the number of required elements. In the second line prin
 | 3 1 3 4 2 4 12   | 3 3 2 12       |
 | 6                |                |
 | 4 15 43 1 15 1   |                |
+
+# Answer:
+
+```python
+n1 = int(input())
+a1 = input().split()
+n2 = int(input())
+a2 = input().split()
+s = ""
+k = 0
+for i in a1:
+	if not (i in a2):
+		k += 1
+		s += str(i) + " "
+print (k)
+print (s.strip())
+```
