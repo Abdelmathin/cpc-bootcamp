@@ -10,7 +10,7 @@ Each test consists of multiple test cases. The first line contains a single inte
 
 The first line of each test case contains two integers n and k (1 ≤ n ≤ 100, 1 ≤ k ≤ 100) — the number of elements in array and the element which must be the most common.
 
-The second line of each test case contains n integers a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub> , …, a<sub>n</sub> (1 ≤ a i ≤100) — elements of the array.
+The second line of each test case contains n integers a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub> , …, a<sub>n</sub> (1 ≤ a<sub>i</sub> ≤100) — elements of the array.
 
 ## Output
 For each test case output "YES" if there exists a subsegment in which k is the most common element, and "NO" otherwise.
