@@ -1,5 +1,17 @@
 # B - Candies Emm?
 
+Mihai and Bianca are playing with bags of candies. They have a row of bags of candies.
+The -th bag has candies. The bags are given to the players in the order from the first bag
+to the -th bag.
+
+If a bag has an even number of candies, Mihai grabs the bag. Otherwise, Bianca grabs the
+bag. Once a bag is grabbed, the number of candies in it gets added to the total number of
+candies of the player that took it.
+
+Mihai wants to show off, so he wants to reorder the array so that at any moment (except at
+the start when they both have no candies), Mihai will have strictly more candies than
+Bianca. Help Mihai find out if such a reordering exists.
+
 # Answer:
 
 ```c++
