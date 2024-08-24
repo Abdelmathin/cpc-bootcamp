@@ -1,4 +1,23 @@
 # K - MEXO Game
+Alice and Bob play yet another game on an array 𝑎 of size 𝑛. Alice starts with an empty array 𝑐 . Both players take turns playing, with Alice starting first.
+
+On Alice's turn, she picks one element from 𝑎 , appends that element to 𝑐 , and then deletes it from 𝑎.
+
+On Bob's turn, he picks one element from 𝑎, and then deletes it from 𝑎.
+
+The game ends when the array 𝑎 is empty. Game's score is defined to be the MEX of 𝑐. Alice wants to maximize the score while Bob wants to minimize it. Find game's final score if both players play optimally.
+
+The MEX (minimum excludant) of an array of integers is defined as the smallest non-negative integer which does not occur in the array. For example:
+
+- The MEX of [2, 2, 1] is 0, because 0 does not belong to the array.
+- The MEX of [3, 1, 0, 1] is 2, because 0 and 1 belong to the array, but 2 does not.
+- The MEX of [0, 3, 1, 2] is 4, because 0, 1, 2 and 3 belong to the array, but 4 does not.
+
+## Input
+
+Each test contains multiple test cases. The first line contains a single integer 𝑡 (1 ≤ t ≤ 2⋅10<sup>4</sup>) — the number of test cases. The description of the test cases follows.
+
+The first line of each test case contains a single integer 𝑛 (1 ≤ n ≤ 2⋅10<sup>5</sup>).
 
 # Answer:
 
