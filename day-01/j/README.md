@@ -34,7 +34,7 @@ If no teams can be compiled, print the only line with value w equal to 0.
 
 | Input            | Output         |
 | ---------------- | -------------- |
-| 4                | 1              |
+| 4                | 0              |
 | 2 1 1 2          |                |
 
 
