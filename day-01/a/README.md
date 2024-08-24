@@ -51,12 +51,13 @@ This means that 4 is the most common element on the subsegment [2,5], so there e
 # Answer:
 
 ```c++
-# include <iostream>
 
 /*
 	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/a
 	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out
 */
+
+# include <iostream>
 
 int main(void)
 {
