@@ -25,14 +25,14 @@
 5 3
 3 4 1 5 5
 </pre></td>
-    <td><div>YES
+    <td><span>YES
 NO
 NO
 YES
 YES
 YES
 YES
-</div></td>
+</span></td>
   </tr>
 </tbody>
 </table>
