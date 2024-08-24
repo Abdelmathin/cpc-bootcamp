@@ -21,7 +21,8 @@ Print the minimum number of moves.
 ### Example
 
 | Input      | Output         |
-| 5          | 5
+| ---------- | -------------- |
+| 5          | 5              |
 | 3 2 5 1 7
 
 # Answer:
