@@ -14,9 +14,9 @@ Print the result of each query.
 
 ### Constraints
 
-1 $$\le$$ n,q $$\le$$ 2 $$\cdot$$ $$10^5$$
-1 $$\le$$ $$x_i$$ $$\le$$ $$10^9$$
-1 $$\le$$ a $$\le$$ b $$\le$$ n
+- 1 $$\le$$ n,q $$\le$$ 2 $$\cdot$$ $$10^5$$
+- 1 $$\le$$ $$x_i$$ $$\le$$ $$10^9$$
+- 1 $$\le$$ a $$\le$$ b $$\le$$ n
 
 ### Example
 
