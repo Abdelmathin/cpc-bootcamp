@@ -24,6 +24,16 @@ You can output the answer in any case (for example, the strings "yEs", "yes", "Y
 
 ### Examples
 
+| Input      | Output         |
+| ---------- | -------------- |
+| 3          | YES
+| 4          | NO
+| 1 2 3 4    | NO
+| 4          |
+| 1 1 1 2    |
+| 3          |
+| 1 4 3      |
+
 
 ### Note
 
