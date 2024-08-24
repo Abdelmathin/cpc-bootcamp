@@ -22,3 +22,7 @@
 </p>
 
 ## Problems:
+
+### Day 00
+
+* [A - Increase by 2](day-00/a)
