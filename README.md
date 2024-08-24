@@ -23,7 +23,7 @@
 
 ## Problems:
 
-### [Day 00](https://vjudge.net/contest/650761#rank)
+### [Day 00](https://vjudge.net/contest/650232)
 
 * [A - Increase by 2](day-00/a)
 * [B - Two arrays](day-00/b)
@@ -36,7 +36,7 @@
 * [I - Basketball One-on-One](day-00/i)
 * [J - FIFA](day-00/j)
 
-### [Day 01](https://vjudge.net/contest/650761#rank)
+### [Day 01](https://vjudge.net/contest/650761)
 
 * [A - Cost Emm?](day-01/a)
 * [B - Candies Emm?](day-01/b)
