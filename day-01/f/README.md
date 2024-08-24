@@ -1,6 +1,8 @@
 # F - Substring reverse
 
-In a given string s was chosen a substring of characters from the i-th to the j-th inclusive (characters in the string s are numbered starting from one). Then was swapped the i-th symbol with the j-th, (i + 1)-th with (j - 1)-th and so on (the substring was reversed). Print the string s after all changes are done.
+In a given string s was chosen a substring of characters from the i-th to the j-th inclusive (characters in the string s are numbered starting from one).
+
+Then was swapped the i-th symbol with the j-th, (i + 1)-th with (j - 1)-th and so on (the substring was reversed). Print the string s after all changes are done.
 
 ## Input
 
