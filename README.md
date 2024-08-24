@@ -35,3 +35,17 @@
 * [H - Apple Division](day-00/h)
 * [I - Basketball One-on-One](day-00/i)
 * [J - FIFA](day-00/j)
+
+### Day 01
+
+* [A - Cost Emm?](day-01/a)
+* [B - Candies Emm?](day-01/b)
+* [C - Crazy array](day-01/c)
+* [D - Range Sum Queries](day-01/d)
+* [E - i3ada](day-01/e)
+* [F - Substring reverse](day-01/f)
+* [G - Clock](day-01/g)
+* [H - Range Xor Queries](day-01/h)
+* [I - Password Gen](day-01/i)
+* [J - Olympiad Team](day-01/j)
+* [K - MEXO Game](day-01/k)
