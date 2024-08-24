@@ -26,3 +26,12 @@
 ### Day 00
 
 * [A - Increase by 2](day-00/a)
+* [B - Two arrays](day-00/b)
+* [C - Gravity Flip](day-00/c)
+* [D - Easy Stack](day-00/d)
+* [E - Vanya and Fence](day-00/e)
+* [F - Max Word Frequency](day-00/f)
+* [G - Sum of Two Values](day-00/g)
+* [H - Apple Division](day-00/h)
+* [I - Basketball One-on-One](day-00/i)
+* [J - FIFA](day-00/j)
