@@ -13,11 +13,39 @@ The MEX (minimum excludant) of an array of integers is defined as the smallest n
 - The MEX of [3, 1, 0, 1] is 2, because 0 and 1 belong to the array, but 2 does not.
 - The MEX of [0, 3, 1, 2] is 4, because 0, 1, 2 and 3 belong to the array, but 4 does not.
 
-## Input
+### Input
 
 Each test contains multiple test cases. The first line contains a single integer 𝑡 (1 ≤ t ≤ 2⋅10<sup>4</sup>) — the number of test cases. The description of the test cases follows.
 
 The first line of each test case contains a single integer 𝑛 (1 ≤ n ≤ 2⋅10<sup>5</sup>).
+
+The second line of each test case contains 𝑛 integers 𝑎<sub>1</sub>, 𝑎<sub>2</sub>, …, 𝑎<sub>n</sub> (0 ≤ 𝑎<sub>i</sub> < n).
+
+It is guaranteed that the sum of 𝑛over all test cases does not exceed 2⋅10<sup>5</sup>
+
+### Output
+ For each test case, find game's score if both players play optimally.
+
+### Example
+
+| Input      | Output         |
+| ---------- | -------------- |
+| 3          | 2              |
+| 4          | 1              |
+| 0 0 1 1    | 0              |
+| 4          |                |
+| 0 1 2 3    |                |
+| 2          |                |
+| 1 1        |                |
+
+### Note
+
+In the first test case, a possible game with a score of 2 is as follows:
+
+- 1 Alice chooses the element 1. After this move, a = [0, 0, 1] and c = [1].
+
+
+
 
 # Answer:
 
