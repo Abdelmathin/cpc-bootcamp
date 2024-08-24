@@ -9,7 +9,7 @@
 </thead>
 <tbody>
   <tr>
-    <td>7
+    <td><pre>7
 5 4
 1 4 3 4 1
 4 1
@@ -24,15 +24,15 @@
 3
 5 3
 3 4 1 5 5
-</td>
-    <td>YES
+</pre></td>
+    <td><div>YES
 NO
 NO
 YES
 YES
 YES
 YES
-</td>
+</div></td>
   </tr>
 </tbody>
 </table>
