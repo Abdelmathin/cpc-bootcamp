@@ -3,6 +3,12 @@
 # Answer:
 
 ```c++
+
+/*
+	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/c
+	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out
+*/
+
 # include <iostream>
 
 int main(void)

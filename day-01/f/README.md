@@ -2,7 +2,13 @@
 
 # Answer:
 
-```c++
+```c
+
+/*
+	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/f
+	cc -Wall -Wextra -Werror main.c -o a.out && ./a.out
+*/
+
 # include <stdio.h>
 
 int main(void)

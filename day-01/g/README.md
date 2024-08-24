@@ -3,12 +3,14 @@
 # Answer:
 
 ```c++
-# include <iostream>
-# include <sstream>
 
 /*
+	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/g
 	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out
 */
+
+# include <iostream>
+# include <sstream>
 
 std::string add_minutes(std::string time, int minutes)
 {

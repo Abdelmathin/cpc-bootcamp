@@ -52,6 +52,7 @@ At the end, c = [1,0], which has a MEX of 2. Note that this is an example game a
 # Answer:
 
 ```c++
+
 /*
 	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/k
 	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out

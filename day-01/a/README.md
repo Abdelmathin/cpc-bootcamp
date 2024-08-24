@@ -44,7 +44,7 @@ In the first test case we need to check if there is a subsegment where the most 
 On the subsegment [2,5] the elements are 4, 3, 4, 1.
 - 4 appears 2 times
 - 1 appears 1 time;
-- 3appears 1 time.
+- 3 appears 1 time.
 
 This means that 4 is the most common element on the subsegment [2,5], so there exists a subsegment where 4 is the most common element.
 
@@ -54,7 +54,8 @@ This means that 4 is the most common element on the subsegment [2,5], so there e
 # include <iostream>
 
 /*
-	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out < infile
+	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/a
+	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out
 */
 
 int main(void)

@@ -3,12 +3,14 @@
 # Answer:
 
 ```c++
-# include <iostream>
-#include <sstream>
 
 /*
-	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out < infile
+	https://github.com/Abdelmathin/cpc-bootcamp/tree/main/day-01/b
+	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out
 */
+
+# include <iostream>
+# include <sstream>
 
 int main(void)
 {
