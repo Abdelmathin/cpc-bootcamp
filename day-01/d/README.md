@@ -32,7 +32,6 @@ Print the result of each query.
 | 3 3              |
 
 
-
 # Answer:
 
 ```c
