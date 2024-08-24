@@ -43,9 +43,11 @@ It is guaranteed that the sum of 𝑛over all test cases does not exceed 2⋅10<
 In the first test case, a possible game with a score of 2 is as follows:
 
 - 1 Alice chooses the element 1. After this move, a = [0, 0, 1] and c = [1].
+- 2 Bob chooses the element 0. After this move, a = [0,1] and c = [1].
+- 3 Alice chooses the element 0. After this move, a = [1] and c = [1,0].
+- 4 Bob chooses the element 1. After this move, a = [] and c = [1,0].
 
-
-
+At the end, c = [1,0], which has a MEX of 2. Note that this is an example game and does not necessarily represent the optimal strategy for both players.
 
 # Answer:
 
