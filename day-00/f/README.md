@@ -1,4 +1,4 @@
-## F - Max Word Frequency (use Map)
+## F - Max Word Frequency
 
 Term frequency–Inverse document frequency (tf-idf) is a numerical statistic which reflects the importance of words in a document collection. It is often used in information retrieval system. The number of times a word appears in the document (word frequency) is one of the major factors to acquire tf-idf.
 

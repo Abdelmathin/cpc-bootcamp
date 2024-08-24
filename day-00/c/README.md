@@ -1,4 +1,4 @@
-## C - Gravity Flip (use sorting)
+## C - Gravity Flip
 
 Little Chris is bored during his physics lessons (too easy), so he has built a toy box to keep himself occupied. The box is special, since it has the ability to change gravity.
 
@@ -14,7 +14,7 @@ Given the initial configuration of the toy cubes in the box, find the amounts of
 
 ### Input
 
-The first line of input contains an integer n (1 ≤ n ≤ 100), the number of the columns in the box. The next line contains n space-separated integer numbers. The i-th number ai (1 ≤ ai ≤ 100) denotes the number of cubes in the i-th column.
+The first line of input contains an integer n (1 ≤ n ≤ 100), the number of the columns in the box. The next line contains n space-separated integer numbers. The i-th number ai (1 ≤ a<sub>i</sub> ≤ 100) denotes the number of cubes in the i-th column.
 
 ### Output
 

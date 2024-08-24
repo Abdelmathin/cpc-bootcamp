@@ -1,4 +1,4 @@
-## G - Sum of Two Values (use Map)
+## G - Sum of Two Values
 
 You are given an array of 𝑛 integers, and your task is to find two values (at distinct positions) whose sum is 𝑥.
 

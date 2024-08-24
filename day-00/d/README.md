@@ -1,4 +1,4 @@
-## D - Easy Stack (use Stack)
+## D - Easy Stack
 
 You have an empty stack and you are given some queries. These queries are the basic stack operations such as Push, Pop, and printing the Top element. Now, you should process the given queries.
 
