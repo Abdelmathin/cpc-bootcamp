@@ -1,9 +1,10 @@
-# A - Cost Emm?
+# B - Candies Emm?
 
 # Answer:
 
 ```c++
 # include <iostream>
+#include <sstream>
 
 /*
 	c++ -Wall -Wextra -Werror main.cpp -o a.out && ./a.out < infile
@@ -16,17 +17,23 @@ int main(void)
 	for (int i = 0; i < t; ++i)
 	{
 		int n = 0;
-		int k = 0;
 		std::cin >> n;
-		std::cin >> k;
-		int p = 0;
-		int y = 0;
+		int mihai = 0;
+		int bianca = 0;
 		for (int j = 0; j < n; ++j)
 		{
-			std::cin >> p;
-			y += (p == k);
+			int candies = 0;
+			std::cin >> candies;
+			if (candies % 2 == 0)
+			{
+				mihai += candies;
+			}
+			else
+			{
+				bianca += candies;
+			}
 		}
-		if (y)
+		if (mihai > bianca)
 		{
 			std::cout << "YES" << std::endl;
 		}
