@@ -16,6 +16,13 @@ Print the minimum number of moves.
 ### Constraints
 
 - 1 $$\le$$ n $$\le$$ 2 ⋅ 10<sup>5</sup>
+- 1 $$\le$$ x<sub>i</sub> $$\le$$ 10<sup>9</sup>
+
+| Input      | Output         |
+| 5          | 5
+| 3 2 5 1 7
+
+### Example
 
 # Answer:
 
